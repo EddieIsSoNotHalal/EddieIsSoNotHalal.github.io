@@ -1,7 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .nav-link {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
-.meny {
+.h2 {
     font-family: hampus;
+}
+
+.meny {
+    padding: 13px;
+}
+
+.row {
+    padding: 6px;
+}
+
+.container {
+    margin-top: 15px;
+    padding-top: 55px;
+}
+
+p {
+    line-height: 1.8;
+}
+
+footer {
+    text-align: center;
+    padding-top: 15px;
+    background-color: lightcyan;
+}
+
+.b1 {
+    background-color: beige;
+}
+
+.b2 {
+    background-color: azure;
+}
+
+.b3 {
+    background-color: lightgoldenrodyellow;
+}
+
+main {
+    background-color: cornsilk;
 }
